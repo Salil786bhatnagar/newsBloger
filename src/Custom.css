@@ -1,0 +1,181 @@
+/* div#user-icon {
+    position: relative;
+    bottom: 38px;
+    left: 339%;
+}
+.main-container {
+    position: relative;
+    bottom: 634px;
+    left: 16%;
+} */
+.div-middilbar {
+    padding: 10px 0px 0px 0px;
+}
+.div-leftbar {
+    padding: 10px 0px 0px 0px;
+}
+.div-rightbar {
+    padding: 10px 0px 0px 0px;
+}
+
+/* div#righ-container {
+    height: 200%;
+    background: cadetblue;
+    color: aliceblue;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #5a5454;
+} */
+
+
+.div-navigation-bar ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 12px 12px 12px 12px;
+    margin: 0px 5px;
+    color: aliceblue;
+    /* border: 1px solid darkblue;
+    box-shadow: 3px 5px 9px black; */
+    /* position: relative;
+    top: 9px; */
+}
+span.span-img-logo {
+    border: 1px solid #fff;
+    border-radius: 27px;
+    padding: 11px 3px 15px 3px;
+}
+/* signup icon css*/
+div#user-icon {
+    position: relative;
+    bottom: 37px;
+    left: 333%;
+}
+
+.div-left {
+    float: left;
+    width: 20%;
+    background: #979191;
+    color: aliceblue;
+    border: 1px solid #ef966430;
+    height: 740px;
+    /* position: relative; */
+    margin-top: 5%;
+}
+.div-right {
+    float: right;
+    width: 80%;
+    background: #ededed;
+    border: 1px solid #ef966430;
+    height: 535px;
+    position: relative;
+    bottom: 8px;
+    margin-top: 6%;
+}
+
+h3.div-dashbord {
+    background-color: cornflowerblue;
+    padding: 20px 0px 20px 0px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+
+}
+
+.MuiGrid-container {
+    width: 100% !important;
+}
+
+.MuiGrid-spacing-xs-5 {
+    /* width: calc(100% + 40px); */
+    margin: 0px !important;
+}
+/* add grid  */
+.div-one-class {
+    width: 102%;
+}
+.div-two-class {
+    width: 102%;
+}
+.div-three-class {
+    width: 102%;
+}
+
+/* footer */
+
+.div-footer {
+    width: 101%;
+    padding-left: 0%;
+}
+
+div#paper-div {
+    min-height: 460px;
+}
+span#div-recent-Page {
+    min-height: 360px;
+}
+span#div-basic-Page {
+    min-height: 300px;
+}
+
+span#div-curretn-Page {
+    min-height: 300px;
+}
+
+/* sport */
+div#paper-div {
+    border: 1px solid #7a6060;
+    box-shadow: 1px 1px 6px 1px;
+}
+div#paper-div {
+    margin-top: 4px;
+}
+
+/* user detail page css */
+div#div-user-detail {
+    margin-top: 4px;
+}
+
+/* recent post css */
+div#div-recent-post {
+    margin-top: 4px;
+}
+
+/* add sport css */
+
+.div-sport-container {
+    margin-left: 2%;
+}
+
+span.span-textfield {
+    margin-right: 38%;
+}
+.div-input-img {
+    margin-right: 58%;
+}
+div#user-sport-img {
+    position: relative;
+    bottom: 36px;
+    left: 162%;
+}
+/* sport add css */
+.div-sport-main {
+    border: 1px solid indianred;
+}
+.div-sport-main {
+    border: 1px solid indianred;
+    background-color: #dce3e3;
+    color: black;
+    font-size: 16px;
+    margin: 1%;
+}
+span.span_reset {
+    margin: 4%;
+}
+span.span_reset-sport {
+    position: relative;
+    top: 273px;
+    left: 84%;
+}
+span.span-handle {
+    position: relative;
+    right: 6%;
+}
